@@ -1,0 +1,90 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.last-section {
+  background-color: rgb(1, 1, 22);
+}
+.li-item {
+  list-style: none;
+  text-decoration: white;
+}
+.bikes img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.bikes {
+  padding-bottom: 120px;
+}
+.frequent {
+  display: flex;
+  justify-content: center;
+}
+.first-section {
+  padding-bottom: 120px;
+}
+.hero-sec-btn {
+  width: 40%;
+}
+.first-element {
+  padding: 100px;
+}
+.dark-color {
+  background-color: rgba(7, 70, 70, 0.883);
+}
+.coral-color {
+  color: coral;
+}
+.clients {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+.users {
+  width: 100%;
+  padding-bottom: 120px;
+  padding-top: 70px;
+}
+.labeba {
+  width: 80%;
+}
+.zakia {
+  padding-bottom: 120px;
+  padding-top: 50px;
+}
+.Bangladesh {
+  padding-bottom: 30px;
+}
+.users h6 {
+  padding: 50px;
+}
+.users img {
+  width: 130px;
+}
+.intro {
+  text-decoration: rgb(22, 116, 153);
+}
+.six-section {
+  padding-top: 70px;
+}
+footer {
+  padding: 60px;
+}
+.icon {
+  color: orangered;
+  text-align: center;
+}
+.white-color {
+  color: white;
+  padding-top: 15px;
+}
+.li-item {
+  padding-left: 20px;
+}
+.item {
+  padding-left: 20px;
+}
+footer p {
+  padding-left: 20px;
+}
